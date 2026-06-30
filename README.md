@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkyLink Airlines Reservation System v2.0 — CustomTkinter Edition
 
 An enterprise-style desktop application, rebuilt with **CustomTkinter**
@@ -89,3 +90,6 @@ Password: SkyAirline@786
 - All data is stored in memory for the duration of the session
   (matching the original system's behavior) — there is no database
   file or persistence layer.
+=======
+# SkyLink_Airline
+>>>>>>> f7179afcfea746ab928e50dcdba367287badc857
